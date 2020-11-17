@@ -1,0 +1,64 @@
+sectional:
+newgameid              home                 away                gamedatenum        downloaddatenum 
+section                row                  number               pricenum           upto  
+ticketid               piggy                aisle                parking            multirow
+regprice               seastickonly         suite                nostdsection       nostdrow 
+sectionfeid            sectionrowfeid       numb                 homediv            homeleague 
+homerecord             homegameback         homegametogo         homewildgameback   homegameahead
+homewildgameahead      homepriortofirstgame awaydiv              awayleague         awayrecord
+awaygameback           awaygametogo         awaywildgameback     awaygameahead      awaywildgameahead
+awaypriortofirstgame   att                  gamehomerecord       gameawayrecord     propmaxatt 
+gamedownfe             dtg                  buyerpricenum        sellerpricenum     entrantticket 
+exitticket             pricechange          expatt90un           realnumb           EBlist 
+EBpossover             EBalllist            EBallpossover        EBregpnlist        EBregplist
+SHlist                 SHnumbpossover       SHalllist            SHallpossover      SHregpnlist 
+SHregplist             gamesectionfe        gamesectionrowfe     gamefe             gameregpfe 
+firstrow               secondrow            numbrow              rowna              numbsection 
+norow                  ticketidnum          lnsellerpricenum     lnbuyerpricenum    D3to5 
+D6to8                  D9to11               D12to14              D15to17            D18to20 
+D21to23                D24to26              D27to29              D30to32            D33to35
+D36to38                D39to41              D42to44              D45to47            D48to50 
+D51to55                D56to60              D61to70              D71to80            D81plus 
+homebackgtg            homeaheadgtg         awaybackgtg          awayaheadgtg       homewildgamebackgtg homewildgameaheadgtg   awaywildgamebackgtg  awaywildgameaheadgtg homerecordgtg      awayrecordgtg 
+bpricereg              spricereg            numtixday            prevsrday          nextsrday
+probexit               probentry            EBlistdum            EBalllistdum       EBregpnlistdum 
+EBregplistdum          EBlist2              EBalllist2           EBregpnlist2       EBregplist2 
+SHlist2                SHalllist2           SHregpnlist2         SHregplist2        _Inumb_2 
+_Inumb_3               _Inumb_4             _Inumb_5             _Inumb_6          _Iupto_1 
+_InumXupt_2_1          _InumXupt_3_1        _InumXupt_4_1        _InumXupt_5_1     _InumXupt_6_1 
+RELSPRICE
+
+panel:
+newgameid              home                 away                 gamedatenum       downloaddatenum 
+hournum                numrec               rec                  section              
+row                    number               pricenum             upto              noteach              
+auctiondum             ticketid             notonmap 
+notonmapx              ssection             srow                 piggy             aisle 
+parking                multirow             regprice             seastickonly      suite 
+nostdsection           nostdrow             sectionfeid          sectionrowfeid    numb 
+neweventidhtml         monthd               multiplegamedates    homediv           homeleague 
+homerecord             homegameback         homegametogo         homewildgameback  homegameahead 
+homewildgameahead      homepriortofirstgame awaydiv              awayleague        awayrecord 
+awaygameback           awaygametogo         awaywildgameback     awaygameahead     awaywildgameahead 
+awaypriortofirstgame   att                  gamehomerecord       gameawayrecord    propmaxatt 
+gamedownfe             dtg                  buyerpricenum        sellerpricenum    gamepercentile
+sectionpercentile      percgrp              entrantticket        exitticket        pricechange ssectionnumb           remainder            expatt               expatt90un        firstrow 
+secondrow              numbrow              rowna                y                 numbsection 
+orderrowx              orderrow             norow                monthgame         dowgame
+realnumb               avday                EBlist               EBpossover        EBalllist 
+EBallpossover          EBregpnlist          EBregplist           SHlist            SHnumbpossover
+SHalllist              SHallpossover        SHregpnlist          SHregplist        _merge 
+gamesectionfe          gamesectionrowfe     gamefex              gamefe            ticketidnum 
+lnsellerpricenum       lnbuyerpricenum      x                    sumx              D3to5 
+D6to8                  D9to11               D12to14              D15to17           D18to20 
+D21to23                D24to26              D27to29              D30to32           D33to35 
+D36to38                D39to41              D42to44              D45to47           D48to50 
+D51to55                D56to60              D61to70              D71to80           D81plus 
+homebackgtg            homeaheadgtg         awaybackgtg          awayaheadgtg      homewildgamebackgtg
+homewildgameaheadgtg   awaywildgamebackgtg  awaywildgameaheadgtg homerecordgtg     awayrecordgtg 
+EBlistdum              EBalllistdum         EBregpnlistdum       EBregplistdum     EBlist2 
+EBalllist2             EBregpnlist2         EBregplist2          SHlist2           SHalllist2 
+SHregpnlist2           SHregplist2          _Inumb_2             _Inumb_3          _Inumb_4               
+_Inumb_5               
+_Inumb_6               _Iupto_1             _InumXupt_2_1     _InumXupt_3_1        _InumXupt_4_1         
+_InumXupt_5_1          _InumXupt_6_1        RELSPRICE        
